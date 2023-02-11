@@ -17,8 +17,9 @@ fn main() {
 
     {
         // irrefutable pattern - allways - match the compiler will give a warning
-        if let x = 5 {
+        /*  if let x = 5 {
             println!("{}", x);
         };
+        */
     }
 }
